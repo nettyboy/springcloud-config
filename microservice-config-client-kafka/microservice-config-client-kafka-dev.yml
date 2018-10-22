@@ -1,5 +1,5 @@
 profile: microservice-config-kafka-dev
-user.id: 10
+user.id: 50
 user.name: ningquan
-user.age: 11
+user.age: 22
 profileConfig: gitcontent
