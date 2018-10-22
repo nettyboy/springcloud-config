@@ -23,7 +23,7 @@ server:
       directory: logs
 
 logging:
-   appender: file
+   appender: console
    path: D:/data/logs
    pattern:
     level: info
