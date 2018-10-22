@@ -6,4 +6,8 @@ profileConfig: gitcontent
 com.zhht.mq.servername: zhht
 com.zhht.mq.serverip: 10.110.60.11
 com.zhht.mq.password: 123456
-
+logging:
+   appender: file
+   path: D:/data/logs
+   pattern:
+    level: info
