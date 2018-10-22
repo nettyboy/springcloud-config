@@ -1,2 +1,5 @@
-profile: microservice-config-bus-dev-update
+profile: microservice-config-kafka-dev
+user.id: 100
+user.name: ningquan
+user.age: 111
 profileConfig: gitcontent
