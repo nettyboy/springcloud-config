@@ -22,9 +22,9 @@ server:
     #accesslog目录，默认在basedir/logs
       directory: logs
       
-com.zhht.entry.plate: 京P123456
+com.zhht.entry.plate: 核P123456
 com.zhht.entry.time: 12:00
-com.zhht.entry.event: 90
+com.zhht.entry.event: 100
 logging:
    appender: console
    path: D:/data/logs
